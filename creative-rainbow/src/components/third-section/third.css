@@ -1,0 +1,21 @@
+.main-items{
+    margin-top: 11rem;
+    display: flex;
+    gap: 143px;
+}
+.right-main-section{
+    margin-top: 60px;
+}
+h1{
+    margin-bottom: 20px;
+}
+.hero-button{
+    width: 145px;
+    height: 34px;
+    border: none;
+    background-color: #000000;
+    border-radius: 20px;
+    color: #fff;
+    margin-top: 40px;
+    cursor: pointer;
+}
